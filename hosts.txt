@@ -4601,6 +4601,13 @@
 127.0.0.1       cz.pornhub.com
 127.0.0.1       cz.search.etargetnet.com
 127.0.0.1       cz.static.etargetnet.com
+127.0.0.1       cn.adocean.pl
+127.0.0.1       cn.bbelements.com
+127.0.0.1       cn.bongacams.com
+127.0.0.1       cn.hit.gemius.pl
+127.0.0.1       cn.pornhub.com
+127.0.0.1       cn.search.etargetnet.com
+127.0.0.1       cn.static.etargetnet.com
 127.0.0.1       czas-na-fb.blogspot.com
 127.0.0.1       czat.wp.pl
 127.0.0.1       czech-teens.com
